@@ -1,56 +1,61 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Daniel Reis — Offensive Security" width="100%">
+  <img src="./assets/banner.svg" alt="Daniel Reis — IT Support & Security" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-stefan-reis/"><img src="https://img.shields.io/badge/LinkedIn-daniel--stefan--reis-0d1117?style=flat-square&labelColor=161b22" alt="LinkedIn"></a>
-  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Portfolio-Offsec--labs-0d1117?style=flat-square&labelColor=161b22" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20internship-1f6f4a?style=flat-square&labelColor=161b22" alt="Status">
+  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Lab-Offsec--labs-0d1117?style=flat-square&labelColor=161b22" alt="Lab"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20IT%20Support-1f6f4a?style=flat-square&labelColor=161b22" alt="Status">
 </p>
 
 ```console
-daniel@redteam-lab:~$ cat profile.txt
-  role    Estudante de Cibersegurança · PUC-Campinas
-  focus   Pentest · Web AppSec · Linux PrivEsc
-  method  Recon → Enum → Exploit → Post-Exploit → Report
-  lab     KVM isolado (Kali · Metasploitable2 · Win11) + VPS Docker
-  goal    Estágio / júnior em segurança ofensiva ou defensiva
+root@helpdesk-lab:~$ cat profile.txt
+  role    Suporte de TI · Estudante de Cibersegurança (PUC-Campinas)
+  focus   Help Desk N1/N2 · Windows & Linux · Redes · Hardening
+  method  Triagem → Diagnóstico → Correção → Documentação → Prevenção
+  lab     KVM (Kali · Win11 · Linux) + VPS Docker
+  goal    Estágio / júnior em Suporte TI, Infra ou SOC
 ```
 
 ### `> about`
 
-Trabalho cada projeto como um **engajamento real de pentest**: escopo definido, metodologia, evidências reproduzíveis e recomendações de remediação. O objetivo não é só explorar, mas entregar um relatório que um time técnico consiga usar para corrigir.
+Encaro cada chamado como um **incidente a investigar**: entender o sintoma, achar a causa raiz, resolver e documentar para que não volte. Venho do lado da segurança, então além de deixar a máquina funcionando eu olho para o que poderia ser explorado ali — senha fraca, porta aberta à toa, permissão sobrando, update atrasado.
 
-Todos os testes são feitos em **ambientes próprios ou expressamente autorizados**.
+Suporte que **resolve rápido e fecha a porta** antes que alguém entre por ela.
 
 ### `> toolkit`
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=3ddc97" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Windows_10/11-0d1117?style=flat-square&logo=windows&logoColor=3ddc97" alt="Windows">
   <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=3ddc97" alt="Linux">
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=3ddc97" alt="Nmap">
-  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=3ddc97" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=3ddc97" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=3ddc97" alt="Wireshark">
-  <img src="https://img.shields.io/badge/John_the_Ripper-0d1117?style=flat-square&logo=gnuprivacyguard&logoColor=3ddc97" alt="John the Ripper">
-  <img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=3ddc97" alt="OWASP">
+  <img src="https://img.shields.io/badge/Active_Directory-0d1117?style=flat-square&logo=windows&logoColor=3ddc97" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Microsoft_365-0d1117?style=flat-square&logo=microsoft&logoColor=3ddc97" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/Redes_TCP/IP-0d1117?style=flat-square&logo=cisco&logoColor=3ddc97" alt="Redes">
+  <img src="https://img.shields.io/badge/Hardware_&_Manutenção-0d1117?style=flat-square&logo=intel&logoColor=3ddc97" alt="Hardware">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3ddc97" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=3ddc97" alt="PowerShell">
   <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=3ddc97" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=3ddc97" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3ddc97" alt="Python">
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=3ddc97" alt="Docker">
   <img src="https://img.shields.io/badge/KVM_/_libvirt-0d1117?style=flat-square&logo=qemu&logoColor=3ddc97" alt="KVM">
   <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3ddc97" alt="Git">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=3ddc97" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=3ddc97" alt="Nmap">
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=3ddc97" alt="Kali Linux">
+</p>
 
-### `> featured engagement`
+### `> featured lab`
 
 <a href="https://github.com/innexosistemas-lang/Offsec-labs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=innexosistemas-lang&repo=Offsec-labs&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3ddc97&border_color=21262d" alt="Offsec-labs">
 </a>
 
-**Offsec-labs** — portfólio de segurança ofensiva: reconhecimento, exploração web, escalação de privilégios, OWASP Top 10 e hardening de VPS, cada projeto documentado no formato de relatório de pentest.
+**Offsec-labs** — laboratório onde testo na prática o que aplico no suporte: hardening de VPS, permissões e escalação de privilégios em Linux, análise de rede e OWASP Top 10. Entender como um sistema quebra é o que me faz configurar melhor.
+
+Todos os testes são feitos em **ambientes próprios ou expressamente autorizados**.
 
 ### `> certifications`
 
@@ -63,5 +68,5 @@ Todos os testes são feitos em **ambientes próprios ou expressamente autorizado
 ---
 
 <p align="center">
-  <sub><code>// conhecimento ofensivo a serviço da defesa</code></sub>
+  <sub><code>// se tá funcionando, eu documento. se tá vulnerável, eu corrijo.</code></sub>
 </p>
