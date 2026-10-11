@@ -23,17 +23,6 @@ Trabalho cada projeto como um **engajamento real de pentest**: escopo definido, 
 
 Todos os testes são feitos em **ambientes próprios ou expressamente autorizados**.
 
-### `> focus areas`
-
-| Área | O que pratico |
-|---|---|
-| **Reconhecimento** | OSINT, enumeração de serviços, mapeamento de superfície de ataque |
-| **Web AppSec** | OWASP Top 10, testes manuais com Burp Suite, falhas de autenticação e injeção |
-| **Exploração de infraestrutura** | Serviços legados, cadeias de exploração com Metasploit, cracking de hashes |
-| **Pós-exploração** | Escalação de privilégios em Linux, persistência e coleta de evidências |
-| **Hardening & Blue Team** | Hardening de VPS, análise de logs e tráfego (tcpdump / Wireshark) |
-| **Reporting** | Relatórios técnicos com severidade, evidências e plano de remediação |
-
 ### `> toolkit`
 
 <p>
