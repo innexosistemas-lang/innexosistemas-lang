@@ -9,19 +9,17 @@
 </p>
 
 ```console
-root@helpdesk-lab:~$ cat profile.txt
-  role    Suporte de TI · Estudante de Cibersegurança (PUC-Campinas)
-  focus   Help Desk N1/N2 · Windows & Linux · Redes · Hardening
-  method  Triagem → Diagnóstico → Correção → Documentação → Prevenção
+root@offsec-lab:~$ cat perfil.txt
+  Papel    Suporte de TI · Estudante de Cibersegurança (PUC-Campinas)
+  Foco   Suporte Junior · Windows & Linux · Redes · Hardening
+  Metodo  Triagem → Diagnóstico → Correção → Documentação → Prevenção
   lab     KVM (Kali · Win11 · Linux) + VPS Docker
-  goal    Estágio / júnior em Suporte TI, Infra ou SOC
+  Objetivo  Estágio / júnior em Suporte TI, Infra ou SOC
 ```
 
 ### `> about`
 
-Encaro cada chamado como um **incidente a investigar**: entender o sintoma, achar a causa raiz, resolver e documentar para que não volte. Venho do lado da segurança, então além de deixar a máquina funcionando eu olho para o que poderia ser explorado ali — senha fraca, porta aberta à toa, permissão sobrando, update atrasado.
-
-Suporte que **resolve rápido e fecha a porta** antes que alguém entre por ela.
+Me chamo Daniel e sou estudante do bacharelado em Cibersegurança, com grande interesse e entusiasmo por tecnologia. Há mais de um ano comecei a estudar os fundamentos de programação, redes e sistemas, explorando as mais variadas áreas. Atualmente desenvolvo este GitHub como portfólio pessoal, onde compartilho meus projetos e habilidades. Busco crescimento contínuo por meio da prática, construindo coisas reais e aprendendo com cada uma delas.
 
 ### `> toolkit`
 
