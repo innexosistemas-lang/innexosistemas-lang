@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-stefan-reis/"><img src="https://img.shields.io/badge/LinkedIn-daniel--stefan--reis-0d1117?style=flat-square&labelColor=161b22" alt="LinkedIn"></a>
-  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Lab-Offsec--labs-0d1117?style=flat-square&labelColor=161b22" alt="Lab"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20NOC%20%7C%20Suporte%20%7C%20SOC-1f6f4a?style=flat-square&labelColor=161b22" alt="Status">
 </p>
 
@@ -16,7 +15,19 @@ analyst@soc-lab:~$ cat perfil.txt
   Lab       KVM (Kali · Win11 · Linux) + VPS Docker
 ```
 
-Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, com foco em segurança defensiva e ofensiva e resposta a incidentes. Sou movido pela curiosidade por tecnologia e busco oportunidades para aprender e evoluir na área. Aqui estão meus labs, montados e documentados em ambiente próprio.
+Estudante de Cibersegurança com foco em **segurança defensiva**. Busco começar em **NOC/Suporte** e evoluir para **SOC**. Aqui estão meus labs, montados e documentados em ambiente próprio.
+
+### `> labs`
+
+| Lab | Foco |
+|---|---|
+| [glpi-lab](https://github.com/innexosistemas-lang/glpi-lab) | Service desk: chamados, SLA, inventário |
+| [zabbix-noc-lab](https://github.com/innexosistemas-lang/zabbix-noc-lab) | NOC: monitoramento e alertas com Zabbix + Grafana |
+| [wazuh-soc-lab](https://github.com/innexosistemas-lang/wazuh-soc-lab) | SOC: SIEM com Wazuh + Sysmon, triagem de alertas |
+| [attack-detection-lab](https://github.com/innexosistemas-lang/attack-detection-lab) | Ataque do Kali x regra que detecta (MITRE ATT&CK) |
+| [ad-lab](https://github.com/innexosistemas-lang/ad-lab) | Active Directory: administração, ataque e detecção |
+| [security-scripts](https://github.com/innexosistemas-lang/security-scripts) | Scripts Python para logs, portas, hashes e IOCs |
+| [writeups](https://github.com/innexosistemas-lang/writeups) | TryHackMe e Hack The Box |
 
 ### `> toolkit`
 
@@ -32,14 +43,6 @@ Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, com foco em se
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3ddc97" alt="Python">
   <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=3ddc97" alt="Docker">
 </p>
-
-### `> featured lab`
-
-<a href="https://github.com/innexosistemas-lang/Offsec-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innexosistemas-lang&repo=Offsec-labs&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3ddc97&border_color=21262d" alt="Offsec-labs">
-</a>
-
-Hardening de Linux/VPS, análise de tráfego e relatório de incidente. Testes só em ambientes próprios ou autorizados.
 
 ### `> certifications`
 
