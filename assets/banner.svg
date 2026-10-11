@@ -22,7 +22,7 @@
   <!-- window bar -->
   <g transform="translate(32,28)">
     <circle r="5" fill="#30363d"/><circle cx="18" r="5" fill="#30363d"/><circle cx="36" r="5" fill="#30363d"/>
-    <text x="60" y="4" class="mono" font-size="12" fill="#484f58">root@helpdesk-lab: ~/tickets</text>
+    <text x="60" y="4" class="mono" font-size="12" fill="#484f58">root@offsec-lab: ~/tickets</text>
   </g>
 
   <!-- prompt -->
