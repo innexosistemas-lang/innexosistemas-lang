@@ -15,7 +15,7 @@ analyst@soc-lab:~$ cat perfil.txt
   Lab       KVM (Kali · Win11 · Linux) + VPS Docker
 ```
 
-Estudante de Cibersegurança com foco em **segurança defensiva**. Busco começar em **NOC/Suporte** e evoluir para **SOC**. Aqui estão meus labs, montados e documentados em ambiente próprio.
+Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, Segurança defensiva e ofensiva e resposta a incidentes. Sou movido pela curiosidade por tecnologia e busco oportunidades para aprender e construir uma carreira na área. Aqui estão meus labs, montados e documentados em ambiente próprio.
 
 ### `> labs`
 
