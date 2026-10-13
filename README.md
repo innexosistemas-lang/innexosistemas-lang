@@ -21,11 +21,12 @@ Estudante de Cibersegurança com foco em **segurança defensiva**. Busco começa
 
 | Lab | Foco |
 |---|---|
+| [**offsec-labs**](https://github.com/innexosistemas-lang/offsec-labs) | Hub do lab: infraestrutura, arquitetura e trilhas NOC/SOC |
 | [glpi-lab](https://github.com/innexosistemas-lang/glpi-lab) | Service desk: chamados, SLA, inventário |
-| [zabbix-noc-lab](https://github.com/innexosistemas-lang/zabbix-noc-lab) | NOC: monitoramento e alertas com Zabbix + Grafana |
-| [wazuh-soc-lab](https://github.com/innexosistemas-lang/wazuh-soc-lab) | SOC: SIEM com Wazuh + Sysmon, triagem de alertas |
-| [attack-detection-lab](https://github.com/innexosistemas-lang/attack-detection-lab) | Ataque do Kali x regra que detecta (MITRE ATT&CK) |
-| [ad-lab](https://github.com/innexosistemas-lang/ad-lab) | Active Directory: administração, ataque e detecção |
+| [zabbix-noc](https://github.com/innexosistemas-lang/zabbix-noc) | NOC: monitoramento e alertas com Zabbix + Grafana |
+| [wazuh-soc](https://github.com/innexosistemas-lang/wazuh-soc) | SOC: SIEM com Wazuh + Sysmon, triagem de alertas |
+| [attack-detection-web](https://github.com/innexosistemas-lang/attack-detection-web) | Ataque do Kali x regra que detecta (MITRE ATT&CK) |
+| [active-directory](https://github.com/innexosistemas-lang/active-directory) | Active Directory: administração, ataque e detecção |
 | [security-scripts](https://github.com/innexosistemas-lang/security-scripts) | Scripts Python para logs, portas, hashes e IOCs |
 | [writeups](https://github.com/innexosistemas-lang/writeups) | TryHackMe e Hack The Box |
 
