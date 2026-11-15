@@ -20,14 +20,7 @@ Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, Segurança def
 
 | Lab | Foco |
 |---|---|
-| [**offsec-labs**](https://github.com/innexosistemas-lang/offsec-labs) | Hub do lab: infraestrutura, arquitetura e trilhas NOC/SOC |
-| [glpi-lab](https://github.com/innexosistemas-lang/glpi-lab) | Service desk: chamados, SLA, inventário |
-| [zabbix-noc](https://github.com/innexosistemas-lang/zabbix-noc) | NOC: monitoramento e alertas com Zabbix + Grafana |
-| [wazuh-soc](https://github.com/innexosistemas-lang/wazuh-soc) | SOC: SIEM com Wazuh + Sysmon, triagem de alertas |
-| [attack-detection-web](https://github.com/innexosistemas-lang/attack-detection-web) | Ataque do Kali x regra que detecta (MITRE ATT&CK) |
-| [active-directory](https://github.com/innexosistemas-lang/active-directory) | Active Directory: administração, ataque e detecção |
-| [security-scripts](https://github.com/innexosistemas-lang/security-scripts) | Scripts Python para logs, portas, hashes e IOCs |
-| [writeups](https://github.com/innexosistemas-lang/writeups) | TryHackMe e Hack The Box |
+
 
 ### `> toolkit`
 
