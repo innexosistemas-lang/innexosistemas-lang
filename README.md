@@ -10,9 +10,8 @@
 ```console
 analyst@soc-lab:~$ cat perfil.txt
   Papel     Estudante de Cibersegurança · PUC-Campinas
-  Alvo      NOC · Suporte N1/N2 · SOC N1
-  Foco      Redes · Monitoramento · Logs · Hardening
-  Lab       KVM (Kali · Win11 · Linux) + VPS Docker
+  Alvo      Suporte N1/N2
+  Foco      Redes · Suporte · Monitoramento · Logs · Resolução de problemas
 ```
 
 Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, Segurança defensiva e ofensiva e resposta a incidentes. Sou movido pela curiosidade por tecnologia e busco oportunidades para aprender e construir uma carreira na área. Aqui estão meus labs, montados e documentados em ambiente próprio.
@@ -49,7 +48,7 @@ Me chamo Daniel, sou estudante de bacharelado em Cibersegurança, Segurança def
 
 ```text
 [x] Segurança em Linux na Era da IA ........... IBSEC · 2026
-[~] Google Cybersecurity Professional Cert .... Coursera · em andamento
+[~] Google Cybersecurity Professional Cert .... Coursera · 2026
 ```
 
 <p align="center">
