@@ -1,6 +1,6 @@
 <div align="center">
 
-![Capa](https://<div align="center">
+![Capa]<div align="center">
 
 ![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Daniel%20Reis&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20TI%20%7C%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Suporte%20T%C3%A9cnico%20e%20Infraestrutura&descSize=18&descAlignY=68)
 
