@@ -11,9 +11,7 @@
 
 ## 👋 Sobre mim
 - 💻 Desenvolvo interfaces web com foco em performance e boa experiência de uso
-- 🎓 Cursando Cibersegurança na PUC-Campinas (segurança no front-end é meu diferencial)
 - 📍 Campinas/SP
-- 🌱 Estudando agora: **TypeScript** e **Next.js**
 - 📫 Aberto a oportunidades e freelas
 
 ## 🛠️ Stack
