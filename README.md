@@ -1,16 +1,16 @@
-## Hi there 👋
+![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Daniel%20Reis&fontSize=45&fontColor=ffffff)
 
-<!--
-**innexosistemas-lang/innexosistemas-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Front-end
 
-Here are some ideas to get you started:
+Construo interfaces simples, rápidas e responsivas. Estudante de Cibersegurança na PUC-Campinas, em Campinas/SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias
+HTML · CSS · JavaScript · React · Git
+
+## 🚀 Projetos em destaque
+- **[nome-do-projeto](link-do-repo)**: o que faz em uma linha · [Demo](link-do-site)
+- **[nome-do-projeto](link-do-repo)**: o que faz em uma linha · [Demo](link-do-site)
+- **[nome-do-projeto](link-do-repo)**: o que faz em uma linha · [Demo](link-do-site)
+
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/daniel-stefan-reis)
