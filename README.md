@@ -1,18 +1,19 @@
 <div align="center">
 
-![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Daniel%20Reis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Front-end&descAlignY=65)
+![Capa](https://<div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Interfaces+r%C3%A1pidas+e+responsivas;Foco+em+UX+e+acessibilidade;Estudante+de+Ciberseguran%C3%A7a)](https://github.com/innexosistemas-lang)
+![Capa](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Daniel%20Reis&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20TI%20%7C%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Suporte%20T%C3%A9cnico%20e%20Infraestrutura&descSize=18&descAlignY=68)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-stefan-reis)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seu-portfolio.com)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redes](https://img.shields.io/badge/Redes-2C5364?style=for-the-badge&logo=cisco&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0f2027?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+</div>capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Daniel%20Reis&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20TI%20%7C%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Suporte%20T%C3%A9cnico%20e%20Infraestrutura&descSize=18&descAlignY=68)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redes](https://img.shields.io/badge/Redes-2C5364?style=for-the-badge&logo=cisco&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0f2027?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 </div>
-
-## 👋 Sobre mim
-- 💻 Desenvolvo interfaces web com foco em performance e boa experiência de uso
-- 📍 Campinas/SP
-- 📫 Aberto a oportunidades e freelas
-
-## 🛠️ Stack
-<p>
