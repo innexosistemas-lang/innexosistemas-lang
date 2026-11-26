@@ -16,20 +16,3 @@
 
 ## 🛠️ Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma,vscode" />
-</p>
-
-## 🚀 Projetos em destaque
-| Projeto | Descrição | Tecnologias | Links |
-|---|---|---|---|
-| **Nome 1** | O que faz, em uma linha | React, Tailwind | [Repo](link) · [Demo](link) |
-| **Nome 2** | O que faz, em uma linha | JavaScript, CSS | [Repo](link) · [Demo](link) |
-| **Nome 3** | O que faz, em uma linha | HTML, CSS | [Repo](link) · [Demo](link) |
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=innexosistemas-lang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innexosistemas-lang&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
